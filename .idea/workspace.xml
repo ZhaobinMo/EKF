@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e61c6819-b843-4a5d-94e2-0730c32cdde2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YMeBJezHZTg95vdU7rjUubHZC1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/component" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/component" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.three_para_model">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="kalman" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="three_para_model" type="PythonConfigurationType" factoryName="Python">
+      <module name="kalman" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/three_para_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.three_para_model" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e61c6819-b843-4a5d-94e2-0730c32cdde2" name="Default Changelist" comment="" />
+      <created>1582756753603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582756753603</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583786818291">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state x="451" y="686" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1583786818291" />
+    <state x="318" y="784" width="1341" height="488" key="#xdebugger.XInspectDialog" timestamp="1584231321128">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state x="318" y="784" width="1341" height="488" key="#xdebugger.XInspectDialog/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584231321128" />
+    <state x="776" y="786" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583786814100">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state x="776" y="786" width="424" height="484" key="FileChooserDialogImpl/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1583786814100" />
+    <state width="1830" height="392" key="GridCell.Tab.0.bottom" timestamp="1584240026874">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.0.bottom/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240026874" />
+    <state width="1830" height="392" key="GridCell.Tab.0.center" timestamp="1584240026874">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.0.center/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240026874" />
+    <state width="1830" height="392" key="GridCell.Tab.0.left" timestamp="1584240026873">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.0.left/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240026873" />
+    <state width="1830" height="392" key="GridCell.Tab.0.right" timestamp="1584240026874">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.0.right/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240026874" />
+    <state width="1830" height="392" key="GridCell.Tab.1.bottom" timestamp="1584240028677">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.1.bottom/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240028677" />
+    <state width="1830" height="392" key="GridCell.Tab.1.center" timestamp="1584240028677">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.1.center/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240028677" />
+    <state width="1830" height="392" key="GridCell.Tab.1.left" timestamp="1584240028677">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.1.left/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240028677" />
+    <state width="1830" height="392" key="GridCell.Tab.1.right" timestamp="1584240028677">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state width="1830" height="392" key="GridCell.Tab.1.right/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1584240028677" />
+    <state x="649" y="856" key="com.intellij.ide.util.TipDialog" timestamp="1583967726537">
+      <screen x="67" y="443" width="1853" height="1173" />
+    </state>
+    <state x="649" y="856" key="com.intellij.ide.util.TipDialog/67.443.1853.1173/1920.0.1200.1920@67.443.1853.1173" timestamp="1583967726537" />
+  </component>
+</project>
